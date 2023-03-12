@@ -3,7 +3,8 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
-
+#removing data
+CMO-Historical-Data-Monthly.xlsx
 # Other files and folders
 .settings/
 
